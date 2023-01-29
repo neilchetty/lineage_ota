@@ -1,1 +1,13 @@
-Initial Commit
+{
+  "response": [
+    {
+      "datetime": 1674988215,
+      "filename": "lineage-20.0-20230129-UNOFFICIAL-RMP6768-recovery-signed.zip",
+      "id": "40850ce055c8efce42aade19f9ca13daf35d3bb4cdd5941116e049ce5b609655",
+      "romtype": "UNOFFICIAL",
+      "size": 896042090,
+      "url": "https://github.com/neilchetty/releases/releases/download/29012023/lineage-20.0-20230129-UNOFFICIAL-RMP6768-recovery-signed.zip",
+      "version": "20.0"
+    }
+  ]
+}
