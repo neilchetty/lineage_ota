@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1674988215,
-      "filename": "lineage-20.0-20230129-UNOFFICIAL-RMP6768-recovery-signed.zip",
-      "id": "40850ce055c8efce42aade19f9ca13daf35d3bb4cdd5941116e049ce5b609655",
+      "datetime": 1676914105,
+      "filename": "lineage-20.0-20230220-UNOFFICIAL-RMP6768-recovery-signed.zip",
+      "id": "fae69b8dec1eaf8d9dcf2b24f74cd6b68b3aaa1fb60fbc479f9cb942e749e61d",
       "romtype": "UNOFFICIAL",
-      "size": 896042090,
-      "url": "https://github.com/neilchetty/releases/releases/download/29012023/lineage-20.0-20230129-UNOFFICIAL-RMP6768-recovery-signed.zip",
+      "size": 896286225,
+      "url": "https://github.com/neilchetty/releases/releases/download/21022023/lineage-20.0-20230220-UNOFFICIAL-RMP6768-recovery-signed.zip",
       "version": "20.0"
     }
   ]
